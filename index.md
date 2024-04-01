@@ -7,7 +7,7 @@ title: Home
 
 ![PageBanner](/PageBanner.png)
 
-My name is Rohan Ferriols-Alibutud, although most places I just go by Rohan Alibutud, since even that name is enough of a linguistic flashbang for people not familiar with (Filipino nomenclature)[https://en.wikipedia.org/wiki/Filipino_name#Indigenous_languages].
+My name is Rohan Ferriols-Alibutud, although most places I just go by Rohan Alibutud, since even that name is enough of a linguistic flashbang for people not familiar with [Filipino nomenclature](https://en.wikipedia.org/wiki/Filipino_name#Indigenous_languages).
 
 I graduated Rutgers University with a Bachelor of Science in both Evolutionary Anthropology and Genetics, two fields with very different methods that are nonetheless interested in very similar questions. 
 
