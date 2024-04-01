@@ -13,7 +13,7 @@ I graduated Rutgers University with a Bachelor of Science in both Evolutionary A
 
 I am currently a first-year Bioinformatics PhD student at the [Institute for Genomic Evolutionary Medicine at Temple University, in the lab of Dr. Sudhir Kumar](https://kumarlab.net/home). 
 
-## Education
+## About Me
 
 Bones-wise, I am a graduate of the [Turkana Basin Institute Origins Field School](https://www.turkanabasin.org/fieldschool/) affiliated with Stony Brook University and the National Museums of Kenya. I spent a semester at active fields sites at both the Mpala Research Center and the Turkana Basin Institute, studying ecology, geology, fossil anthropology, and archaeology.
 
