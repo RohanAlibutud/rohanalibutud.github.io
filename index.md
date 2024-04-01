@@ -19,10 +19,10 @@ Genes-wise, I completed an honors thesis under the advisory of Dr. Jinchuan Xing
 
 ## Links
 
-Github
+[Github](https://github.com/RohanAlibutud)
 
-ResearchGate
+[ResearchGate](https://www.researchgate.net/profile/Rohan-Alibutud)
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/rohan-alibutud-2259b2104)
 
 Curriculum Vitae
