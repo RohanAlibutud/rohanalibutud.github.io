@@ -22,9 +22,6 @@ Genes-wise, I completed an honors thesis on copy number variation in autism-asso
 ## Links
 
 [Github](https://github.com/RohanAlibutud)
-
 [ResearchGate](https://www.researchgate.net/profile/Rohan-Alibutud)
-
 [LinkedIn](https://www.linkedin.com/in/rohan-alibutud-2259b2104)
-
 Curriculum Vitae
