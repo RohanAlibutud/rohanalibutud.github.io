@@ -19,6 +19,8 @@ Bones-wise, I am a graduate of the [Turkana Basin Institute Origins Field School
 
 Genes-wise, I completed an honors thesis on copy number variation in autism-associated genes under the advisory of [Dr. Jinchuan Xing](https://xinglab.genetics.rutgers.edu/) of the Genetics Department and [Dr. Erin Vogel](https://evolution.rutgers.edu/people/ches-faculty/ches-faculty-member/74-ches-faculty/118-erin-r-vogel) of the Anthropology Department. Material from this thesis would later be published as part of a [paper in *eLife*](https://elifesciences.org/articles/82809), as well as a paper for which I was a co-first author that was [published in *IJMS.*](https://www.mdpi.com/1422-0067/24/17/13248)
 
+## [Publications](/publications.md)
+
 ## Links
 
 * [Github](https://github.com/RohanAlibutud)
