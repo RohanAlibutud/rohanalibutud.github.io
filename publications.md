@@ -1,9 +1,4 @@
-# Links
 
-* [Github](https://github.com/RohanAlibutud)
-* [Google Scholar ](https://scholar.google.com/citations?hl=en&user=KfV9jIIAAAAJ)
-* [ResearchGate](https://www.researchgate.net/profile/Rohan-Alibutud)
-* [LinkedIn](https://www.linkedin.com/in/rohan-alibutud-2259b2104)
 
 # Journal Articles
 
@@ -16,3 +11,12 @@
 	* [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODI4MDkvZWxpZmUtODI4MDktdjIucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzgyODA5/elife-82809-v2.pdf?_hash=AOkq8iSFgf76Nn7fPWncLqWzL%2FFDCPhv84Thk5X%2BED4%3D)
 
 # Conference Talks
+* International Conference on Intelligent Biology in Medicine. “Functional Impact of Copy Number Variation in Autism Probands”. Philadelphia, PA. 2022 Aug 8.
+
+
+# Links
+
+* [Github](https://github.com/RohanAlibutud)
+* [Google Scholar ](https://scholar.google.com/citations?hl=en&user=KfV9jIIAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Rohan-Alibutud)
+* [LinkedIn](https://www.linkedin.com/in/rohan-alibutud-2259b2104)
