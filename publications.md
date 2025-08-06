@@ -1,4 +1,7 @@
-# Publications
+---
+layout: default
+title: Publications
+---
 
 ## Journal Articles
 
