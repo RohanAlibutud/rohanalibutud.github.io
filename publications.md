@@ -3,6 +3,9 @@ layout: default
 title: Publications
 ---
 
+## Curriculum Vitae
+[PDF](/RFA_CurriculumVitae_2026.pdf)
+
 ## Journal Articles
 
 * Alibutud, Rohan, Sammy Hansali, Xiaolong Cao, Anbo Zhou, Vaidhyanathan Mahaganapathy, Marco Azaro, Christine Gwin, Sherri Wilson, Steven Buyske, Christopher W. Bartlett, and et al. 2023. "Structural Variations Contribute to the Genetic Etiology of Autism Spectrum Disorder and Language Impairments" International Journal of Molecular Sciences 24, no. 17: 13248. https://doi.org/10.3390/ijms241713248 
